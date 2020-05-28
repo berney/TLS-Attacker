@@ -44,3 +44,4 @@ Utils/.settings/org.eclipse.jdt.core.prefs
 test.sh
 .settings/
 .classpath
+resources/*.pem
